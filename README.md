@@ -67,4 +67,3 @@ The model was validated against a blind test set of **200 industrial batches**, 
 
 
 
-هل تود مني الآن صياغة **Bio** احترافي لحسابك على جيت هاب ليعطي انطباعاً بأنك خبير في هندسة الأغذية والذكاء الاصطناعي؟
